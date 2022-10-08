@@ -1,1 +1,19 @@
+Estilizar a cor de fundo do seu site como o css
+body{
+background-color:rgb(228, 248, 248) ;
+}
 
+Estilizar o título principal do seu site
+ h1{ 
+color: bisque;
+font-family:Luminari, fantasy ;
+background: ;
+}
+
+Estilizar os parágrafos
+p{
+color:burlywood ;
+font-family:Luminari, fantasy ;
+font-size: ;
+background: ;
+}
